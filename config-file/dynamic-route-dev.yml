@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    service-provider:
+      path: /**
+      serviceId: eureka-service
