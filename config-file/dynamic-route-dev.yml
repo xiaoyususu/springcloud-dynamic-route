@@ -3,3 +3,6 @@ zuul:
     hello-service:
       path: /hello-service/**
       serviceId: hello-service
+    hello-route:
+      path: /hello-route/**
+      serviceId: hello-route
